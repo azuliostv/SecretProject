@@ -1,4 +1,1 @@
-# SecretProject
-# For the project install electron
-$ npm install --save-dev electron
-One app
+# One app for view a anime
